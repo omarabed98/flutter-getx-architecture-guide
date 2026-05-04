@@ -1,0 +1,1 @@
+# developer_architecture_guide-GetX-Flutter.md
